@@ -1,4 +1,4 @@
-#! /env/bin/python3
+#! /usr/bin/env python3
 
 from flask import Flask, render_template, request, send_file, redirect, url_for, Response, redirect
 
